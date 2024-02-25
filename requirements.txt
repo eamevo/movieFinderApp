@@ -1,3 +1,1 @@
-you must install matplotlib.
-the command is:
-pip install Matplotlib
+matplotlib
